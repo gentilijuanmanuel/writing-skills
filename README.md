@@ -21,8 +21,8 @@ A fiction critique tool built on John Gardner's craft framework, reconstructed f
 - Never rewrites your prose — points out what isn't working and why, then asks the question that makes you fix it
 
 **How to use:**
-1. Open a conversation with Claude Code and invoke the skill: `/john-gardner-fiction-critique`
-2. Paste your story (or a section of it)
+1. Open a conversation in Claude Code (CLI or macOS app) and invoke the skill: `/john-gardner-fiction-critique`
+2. Provide the text to critique — either paste it directly, or if you write in Notion, use the Notion MCP server to pull the page into the conversation without leaving Claude
 3. Specify the critique level you want (`Level 1` through `Level 4`), or let the skill start at Level 1 and declare it
 4. Revise based on the feedback, then ask for the next level when you're ready
 
